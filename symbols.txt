@@ -1,0 +1,69 @@
+TABLE:
+
+Ϙ  Ӭ  ©  б  Ψ  б
+Ѧ  Ϙ  Ѽ  ¶  ټ  Ӭ
+ƛ  Ͽ  Ҩ  Ѣ  Ѣ  ҂
+Ϟ  Ҩ  Җ  Ѭ  Ͼ  æ
+Ѭ  ☆  Ԇ  Җ  ¶  Ψ
+ϗ  ϗ  ƛ  ¿  Ѯ  Ҋ
+Ͽ  ¿  ☆  ټ  ★  Ω
+
+UNICODE:
+
+æ: LATIN SMALL LETTER AE
+★: BLACK STAR
+©: COPYRIGHT SIGN
+҂: CYRILLIC THOUSANDS SIGN
+¿: INVERTED QUESTION MARK
+ƛ: LATIN SMALL LETTER LAMBDA WITH STROKE
+¶: PILCROW SIGN
+☆: WHITE STAR
+ϗ: GREEK KAI SYMBOL
+Ϟ: GREEK LETTER KOPPA
+Ϙ: GREEK LETTER ARCHAIC KOPPA
+Ͼ: GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL
+Ͽ: GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL
+Ψ: GREEK CAPITAL LETTER PSI
+Ω: GREEK CAPITAL LETTER OMEGA
+б: CYRILLIC SMALL LETTER BE
+Җ: CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER
+Ԇ: CYRILLIC CAPITAL LETTER KOMI DZJE
+Ҋ: CYRILLIC CAPITAL LETTER SHORT I WITH TAIL
+Ѽ: CYRILLIC CAPITAL LETTER OMEGA WITH TITLO
+Ѣ: CYRILLIC CAPITAL LETTER YAT
+Ӭ: CYRILLIC CAPITAL LETTER E WITH DIAERESIS
+Ѧ: CYRILLIC CAPITAL LETTER LITTLE YUS
+Ѭ: CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS
+Ѯ: CYRILLIC CAPITAL LETTER KSI
+Ҩ: CYRILLIC CAPITAL LETTER ABKHASIAN HA
+ټ: ARABIC LETTER TEH WITH RING
+
+CANONICAL:
+
+01 - ©: "copyright"
+02 - ★: "filledstar"
+03 - ☆: "hollowstar"
+04 - ټ: "smileyface"
+05 - Җ: "doublek"
+06 - Ω: "omega"
+07 - Ѭ: "squidknife"
+08 - Ѽ: "pumpkin"
+09 - ϗ: "hookn"
+11 - б: "six"
+12 - Ϟ: "squigglyn"
+13 - Ѧ: "at"
+14 - æ: "ae" 
+15 - Ԇ: "meltedthree"
+16 - Ӭ: "euro"
+18 - Ҋ: "nwithhat"
+19 - Ѯ: "dragon"
+20 - ¿: "questionmark"
+21 - ¶: "paragraph"
+22 - Ͼ: "rightc"
+23 - Ͽ: "leftc"
+24 - Ψ: "pitchfork"
+26 - Ҩ: "cursive"
+27 - ҂: "tracks"
+28 - Ϙ: "balloon"
+30 - ƛ: "upsidedowny"
+31 - Ѣ: "bt"
